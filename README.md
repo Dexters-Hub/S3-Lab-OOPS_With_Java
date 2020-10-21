@@ -1,4 +1,4 @@
-<h3>This repository contains Lab Questions for Object Oriented Programming.</h3>
+<h3>This repository contains solution of Lab Questions for Object Oriented Programming with Java.</h3>
 
 1.print “hello world”<br>
 2.add two numbers<br>
